@@ -6,9 +6,9 @@
           "summary":
             "Provides recommendations on where to eat in Chattanooga Tennessee",
           "examplePhrases": [
-            "Alexa, ask API Starter how many people are in space",
-            "Alexa, ask how many astronauts are in space from API Starter",
-            "Alexa, ask API Starter how many humans are in space now"
+            "Alexa, ask Chattanooga Foodie where should we eat",
+            "Alexa, ask Chattanooga Foodie what should I eat today",
+            "Alexa, ask Chattanooga Foodie what should we eat for dinner"
           ],
           "keywords": [
             "chattanooga",
@@ -23,9 +23,9 @@
           "description":
             "Not sure where to eat dinner tonight in Chattanooga? Alexa can help. Just say: Alexa, ask Chattanooga Foodie where should I eat tonight.",
           "smallIconUri":
-            "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
+            "https://s3.amazonaws.com/chattanooga-foodie-skill/images/small-cf-logo.png",
           "largeIconUri":
-            "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+            "https://s3.amazonaws.com/chattanooga-foodie-skill/images/large-cf-logo.png"
         }
       },
       "isAvailableWorldwide": true,

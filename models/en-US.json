@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "api starter",
+      "invocationName": "chattanooga foodie",
       "types": [],
       "intents": [
         {
@@ -17,18 +17,50 @@
           "samples": []
         },
         {
-          "name": "GetRemoteDataIntent",
-          "slots": [],
+          "name": "RandomSuggestionIntent",
           "samples": [
-            "how many people are in space",
-            "how many people are in space now",
-            "how many people are currently in space",
-            "how many humans are in space",
-            "how many humans are in space now",
-            "how many humans are currently in space",
-            "how many astronauts are in space",
-            "how many astronauts are in space now",
-            "how many astronauts are currently in space"
+            "where should i eat",
+            "where should we eat",
+            "where should i eat tonight",
+            "where should i eat today",
+            "where should i eat tomorrow",
+            "where should i eat this morning",
+            "where should i eat in the morning",
+            "where should i eat in the evening",
+            "where should i eat for breakfast",
+            "where should i eat for brunch",
+            "where should i eat for lunch",
+            "where should i eat for dinner",
+            "where should we eat tonight",
+            "where should we eat today",
+            "where should we eat tomorrow",
+            "where should we eat this morning",
+            "where should we eat in the morning",
+            "where should we eat in the evening",
+            "where should we eat for breakfast",
+            "where should we eat for brunch",
+            "where should we eat for lunch",
+            "where should we eat for dinner",
+            "what should i eat tonight",
+            "what should i eat today",
+            "what should i eat tomorrow",
+            "what should i eat this morning",
+            "what should i eat in the morning",
+            "what should i eat in the evening",
+            "what should i eat for breakfast",
+            "what should i eat for brunch",
+            "what should i eat for lunch",
+            "what should i eat for dinner",
+            "what should we eat tonight",
+            "what should we eat today",
+            "what should we eat tomorrow",
+            "what should we eat this morning",
+            "what should we eat in the morning",
+            "what should we eat in the evening",
+            "what should we eat for breakfast",
+            "what should we eat for brunch",
+            "what should we eat for lunch",
+            "what should we eat for dinner"
           ]
         }
       ]

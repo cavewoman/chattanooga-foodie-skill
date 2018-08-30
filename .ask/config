@@ -17,22 +17,22 @@
       "in_skill_products": [],
       "resources": {
         "manifest": {
-          "eTag": "e62a1c3924b7dd1079adee92c139f4ae"
+          "eTag": "5a61c0ebd498156b900e6d8ece3eb1ff"
         },
         "interactionModel": {
           "en-US": {
-            "eTag": "e52a363e488d4e95e8ba55add6455fa1"
+            "eTag": "3fba3c7e688863c191de372e34df870d"
           }
         },
         "lambda": [
           {
             "arn": "arn:aws:lambda:us-east-1:467289463218:function:chattanooga-food-skill-api",
-            "functionName": "chattanooga-food-skill-api",
+            "functionName": "arn:aws:lambda:us-east-1:467289463218:function:chattanooga-food-skill-api",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "4f83883b-ef72-4944-8a58-016b299e33c4"
+            "revisionId": "379e69f8-022f-4bb0-88f1-25c987aa8aee"
           }
         ]
       }
