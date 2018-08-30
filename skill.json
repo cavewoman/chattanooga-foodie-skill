@@ -3,21 +3,29 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Provides the total number of astronauts who are currently in space.",
+          "summary":
+            "Provides recommendations on where to eat in Chattanooga Tennessee",
           "examplePhrases": [
             "Alexa, ask API Starter how many people are in space",
             "Alexa, ask how many astronauts are in space from API Starter",
             "Alexa, ask API Starter how many humans are in space now"
           ],
           "keywords": [
-            "space",
-            "astronauts",
-            "rocket"
+            "chattanooga",
+            "food",
+            "foodie",
+            "dinner",
+            "breakfast",
+            "brunch",
+            "lunch"
           ],
-          "name": "API Starter",
-          "description": "Guess how many astronauts are currently in space? Know the answer? Alexa does. Just say: Alexa, ask rocket man how many people in space.",
-          "smallIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
-          "largeIconUri": "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
+          "name": "Chattanooga Foodie",
+          "description":
+            "Not sure where to eat dinner tonight in Chattanooga? Alexa can help. Just say: Alexa, ask Chattanooga Foodie where should I eat tonight.",
+          "smallIconUri":
+            "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-sm.png",
+          "largeIconUri":
+            "https://s3.amazonaws.com/cdn.dabblelab.com/img/skill-template-default-lg.png"
         }
       },
       "isAvailableWorldwide": true,
@@ -35,12 +43,6 @@
     "manifestVersion": "1.0",
     "privacyAndCompliance": {
       "allowsPurchases": false,
-      "locales": {
-        "en-US": {
-          "termsOfUseUrl": "http://dabblelab.com/terms",
-          "privacyPolicyUrl": "http://dabblelab.com/privacy"
-        }
-      },
       "isExportCompliant": true,
       "containsAds": false,
       "isChildDirected": false,

@@ -1,20 +1,41 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "",
+      "skill_id": "amzn1.ask.skill.fda1ec20-1886-46fc-b4a6-2e4a4e2c5fc9",
       "was_cloned": false,
       "merge": {
         "manifest": {
           "apis": {
             "custom": {
               "endpoint": {
-                "uri": "ask-custom-dabblelab-api-starter-default"
+                "uri": "chattanooga-food-skill-api"
               }
             }
           }
         }
       },
-      "in_skill_products": []
+      "in_skill_products": [],
+      "resources": {
+        "manifest": {
+          "eTag": "e62a1c3924b7dd1079adee92c139f4ae"
+        },
+        "interactionModel": {
+          "en-US": {
+            "eTag": "e52a363e488d4e95e8ba55add6455fa1"
+          }
+        },
+        "lambda": [
+          {
+            "arn": "arn:aws:lambda:us-east-1:467289463218:function:chattanooga-food-skill-api",
+            "functionName": "chattanooga-food-skill-api",
+            "awsRegion": "us-east-1",
+            "alexaUsage": [
+              "custom/default"
+            ],
+            "revisionId": "4f83883b-ef72-4944-8a58-016b299e33c4"
+          }
+        ]
+      }
     }
   }
 }
